@@ -40,7 +40,7 @@ The **Weather Normalization (WN)** method is used to remove meteorological varia
 
 The implementation and methodological details of the WN component have been described previously. Please refer to the following repository for the Weather Normalization part:
 
-[Weather Normalization part](https://github.com/tu-xuu/London_ULEZ.git)
+[Weather Normalization code](https://github.com/tu-xuu/London_ULEZ.git)
 
 ---
 
